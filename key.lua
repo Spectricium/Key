@@ -1,5 +1,5 @@
 local key = {}
 
-local input = "Hello"
+local key.input = "Hello"
 
 return key
